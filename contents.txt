@@ -2,3 +2,10 @@
 
 Codess aims to inspire female coders and help them achieve their professional goals.
 Through networking events, mentoring and sharing advice and experiences,we hope to offer a forum to women unlike any other.
+
+
+2. https://research.adobe.com/adobe-india-women-in-technology-scholarship/
+
+Through the Adobe India Women-in-Technology Scholarship, we are striving towards creating gender equality in science,
+technology and engineering domains by encouraging women to showcase their excellence in computing and technology 
+and become future leaders and role models in the field.
