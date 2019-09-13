@@ -1,0 +1,43 @@
+1. https://devfolio.co/submissions/complaints-hub
+  
+  It provides a unified platform for 5 caregories of commonly occuring problems for instance, 
+drainage in the locality, 
+that demands instant action by government authorities. 
+Our platform helps to bridge up the communication gap between the consumer and authority, finds internally area of service of authority( which they have themselves selected through our web-app) and helps you draft associated media, 
+location hassle free.
+
+
+2. https://devfolio.co/submissions/maa-maternal-assistance-app
+
+  https://github.com/blackwolf08/hackinit_maa_tools_ct
+  
+  India is highly populated and it needs effective healthcare accessible to all. 
+In Indian culture, the relationship between the mother and her child is considered to be the purest of all. 
+So the family cannot compromise with the health care of both the baby and the mother.
+ There are few apps available in the market but none of them are designed and developed according to the need of an Indian mother. 
+It is not feasible for a mother to interact with the doctor every time with each and every minute details and help. 
+The post-pregnancy phase is also as essential as the pregnancy phase and needs special assistance for the mother and her child's overall development. 
+The parents in rural areas usually are not aware of the basic information regarding pregnancy and parenting phase.
+ There are various government healthcare institutes 
+and schemes available but is not properly promoted and available among the needed citizens.
+
+
+3. https://devfolio.co/submissions/lifeline
+ 
+
+  It will increase lifesaving Chance of patients as each second in valuable in life and death situation. 
+To set up a blood repository which contains the data of the availability of that blood group in various Hospital.
+To create a common Platform between the patients and hospital and interweb connection between various hospitals.
+ To reduce the gap in demand and supply. 
+On the one hand 30% of the patients don’t get the components which they are in need of , 
+and on the other hand 10-12% of the components get wasted due to expiry.
+
+
+4. https://devfolio.co/submissions/pharmahelp
+  
+Nowadays, we have a lot of laboratories that offer us various medical tests but with more options,
+ there is an increase in entropy. 
+There is a need of an app that provides cheapest, safe certified and nearest laboratories with the availability of the tests they provide.
+ Same is the case with pharmacies
+
+It will increase lifesaving Chance of patients as each second in valuable in life and death situation.
