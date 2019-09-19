@@ -24,8 +24,16 @@ without missing out on the important features of the chosen language.
 
 5. NVIDIA GRADUATE FELLOWSHIPS
    https://www.nvidia.com/en-us/research/graduate-fellowships/?fbclid=IwAR3IYLf6_OuJhpmxxQA-GCmRGcpg_-_Sd7WsDF43pJXGauJqJL1CphdsDik
+
 6.Bessemer Fellowship Program
   https://www.bvp.com/bessemer-fellows?fbclid=IwAR1Bkg_QDkohU4ek_S51g6Ufev5TaWYoXs_CSguySW7lnf74MpznPPOZqlQ
+
+
 7. IDEX Fellowship 
 https://www.idexaccelerator.com/idex-app-info?fbclid=IwAR2ZqQq9aP3_cwBm0gOUTxKGJkb0niARURYbXXL-ujB07Gy_h97zqDQPUD8
 
+8. mongoDB scholarship
+https://www.mongodb.com/world/scholarships
+
+MongoDB’s Scholarship program seeks to support members of groups who are underrepresented in the technology industry. This includes Black, LatinX, women, people with disabilities, people from low-income backgrounds, 
+and individuals from the LGBTQ community.
