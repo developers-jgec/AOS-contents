@@ -1,0 +1,28 @@
+links to check
+
+1. https://twitter.com/AnkythShukla/status/1179400266099101702
+
+2. https://github.com/fnplus/interview-techdev-guide/
+
+3. https://opensource.adobe.com/squashtoberfest/
+
+4. http://issuehub.io/?label%5B%5D=good+first+issue&label%5B%5D=first-timers-only&language=python%2C+javascript+
+
+5. https://www.firsttimersonly.com/
+
+6. https://github.com/mungell/awesome-for-beginners
+
+7. https://github.com/search?o=desc&q=org%3Aadobe+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&s=updated&type=Issues
+
+8. https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+
+9. https://github.com/freeCodeCamp/freeCodeCamp
+
+10. https://firstcontributions.github.io/
+
+11. https://devfolio.co/blog/hacktoberfest-2019-devfolio/
+
+10. 1- https://github.com/bevacqua/dragula/issues?q=is%3Aissue+is%3Aopen
+    2- https://github.com/ReactTraining/history/issues?q=is%3Aissue+is%3Aopen
+    3- https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22
+    4- https://up-for-grabs.net/#/
