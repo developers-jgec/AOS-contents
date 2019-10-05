@@ -35,7 +35,7 @@ https://www.idexaccelerator.com/idex-app-info?fbclid=IwAR2ZqQq9aP3_cwBm0gOUTxKGJ
 8. mongoDB scholarship
 https://www.mongodb.com/world/scholarships
 
-MongoDB’s Scholarship program seeks to support members of groups who are underrepresented in the technology industry. This includes Black, LatinX, women, people with disabilities, people from low-income backgrounds, 
+MongoDBâ€™s Scholarship program seeks to support members of groups who are underrepresented in the technology industry. This includes Black, LatinX, women, people with disabilities, people from low-income backgrounds, 
 and individuals from the LGBTQ community.
 
 9. Anitab.org
@@ -46,4 +46,5 @@ and individuals from the LGBTQ community.
 
 11. https://www.gracehopper-gitusc.com/#!
 
-12. 
+12. https://firstcontributions.github.io/ 
+   a topic wise list of some open soure organizations
